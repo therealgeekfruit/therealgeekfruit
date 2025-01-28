@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @therealgeekfruit
-- 👀 I’m interested in Web, App Development & UI/UX
-- 🌱 I’m currently learning React Native & DevOps
-- 💞️ I’m looking to collaborate on Web based projects and solving real world problems
-- 📫 Reach out to me on LinkedIn: [Sudeep Rao](https://www.linkedin.com/in/sudeep-rao/)
+Busy
 
